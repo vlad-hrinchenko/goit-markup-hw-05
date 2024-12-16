@@ -427,13 +427,12 @@ img {
     color: #ffffff;
 }
 
-.form__container {
+.modal__form {
     display: flex;
     gap: 24px;
 }
 
 .modal__label {
-    gap: 24px;
 }
 
 .modal__email {
