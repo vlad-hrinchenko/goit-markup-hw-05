@@ -576,8 +576,8 @@ img {
 
 }
 
-.modal__icon:hover,
-.modal__icon:focus {
+.modal__btn:hover,
+.modal__btn:focus {
     fill: #ffffff;
 }
 
@@ -685,5 +685,5 @@ img {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    
+
 }
